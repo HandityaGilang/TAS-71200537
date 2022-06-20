@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8a0eb9c-35ac-4fdc-b6c8-83f740dbc148" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../2/UG1A_Traffic Lights/UG1A_Traffic Lights.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG11-InstaPost/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG11-InstaPost/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG11-InstaPost/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG11-InstaPost/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG11-InstaPost/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG11-InstaPost/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG11-InstaPost/src/main/java/com/ug11/instapost/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG11-InstaPost/src/main/java/com/ug11/instapost/EmailException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG11-InstaPost/src/main/java/com/ug11/instapost/InstaPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG11-InstaPost/src/test/java/com/ug11/instapost/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG11-KalkulasiRupiah/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG11-KalkulasiRupiah/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG11-KalkulasiRupiah/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG11-KalkulasiRupiah/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG11-KalkulasiRupiah/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG11-KalkulasiRupiah/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG11-KalkulasiRupiah/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG11-KalkulasiRupiah/src/main/java/com/ug11/kalkulasirupiah/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG11-KalkulasiRupiah/src/test/java/com/ug11/kalkulasirupiah/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG11-KalkulasiRupiah/target/test-classes/com/ug11/kalkulasirupiah/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG6/71200537-UG6-1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG6/71200537-UG6-1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG6/71200537-UG6-1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG6/71200537-UG6-1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG6/71200537-UG6-1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG6/71200537-UG6-1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG6/71200537-UG6-1/src/main/java/com/ug6/soal1/Codes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG6/71200537-UG6-1/src/main/java/com/ug6/soal1/Goods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG6/71200537-UG6-1/src/main/java/com/ug6/soal1/VendingMachines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG6/71200537-UG6-1/target/71200537-UG6-1-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG6/71200537-UG6-1/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG6/71200537-UG6-1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG6/71200537-UG6-1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG6/71200537-UG6-1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG6/71200537-UG6-1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG6/71200537-UG6-1/target/surefire-reports/TEST-com.ug6.soal1.AppTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG6/71200537-UG6-1/target/surefire-reports/com.ug6.soal1.AppTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../71200537-UG6/71200537-UG6-1/target/test-classes/com/ug6/soal1/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqlite-jdbc-3.38.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CariSudut/Buat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CariSudut/Carisudut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CariSudut/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CariSudut/Select.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CariSudut/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/CariSudut/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/CariSudut/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/waktu.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/src/main/java/com/rplbo/math/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/src/main/java/com/rplbo/math/BinaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/src/main/java/com/rplbo/math/Kali.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/src/main/java/com/rplbo/math/Kuadrat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/src/main/java/com/rplbo/math/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/src/main/java/com/rplbo/math/OperandNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/src/main/java/com/rplbo/math/OperatorNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/src/main/java/com/rplbo/math/Pangkat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/src/main/java/com/rplbo/math/Tambah.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/src/main/java/com/rplbo/math/TernaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/src/main/java/com/rplbo/math/TriplePythagoras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/src/main/java/com/rplbo/math/UnaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/src/test/java/com/rplbo/math/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/target/MATHEXPRESSION-71200537-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/target/classes/com/rplbo/math/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/target/classes/com/rplbo/math/BinaryOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/target/classes/com/rplbo/math/Kali.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/target/classes/com/rplbo/math/Kuadrat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/target/classes/com/rplbo/math/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/target/classes/com/rplbo/math/OperandNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/target/classes/com/rplbo/math/OperatorNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/target/classes/com/rplbo/math/Tambah.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/target/classes/com/rplbo/math/TernaryOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/target/classes/com/rplbo/math/TriplePythagoras.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/target/classes/com/rplbo/math/UnaryOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/target/surefire-reports/TEST-com.rplbo.math.AppTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/target/surefire-reports/com.rplbo.math.AppTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHEXPRESSION-71200537/target/test-classes/com/rplbo/math/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matematika/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matematika/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matematika/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matematika/Matematika.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matematika/out/production/Matematika/Kali.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matematika/out/production/Matematika/Kuadrat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matematika/out/production/Matematika/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matematika/out/production/Matematika/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matematika/out/production/Matematika/OperandNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matematika/out/production/Matematika/OperatorNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matematika/out/production/Matematika/Tambah.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matematika/out/production/Matematika/UnaryOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matematika/src/Kali.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matematika/src/Kuadrat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matematika/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matematika/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matematika/src/OperandNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matematika/src/OperatorNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matematika/src/Tambah.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matematika/src/UnaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/71200537-soal1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/71200537-soal1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/71200537-soal1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/71200537-soal1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/71200537-soal1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/71200537-soal1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/71200537-soal1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/71200537-soal1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/71200537-soal1/src/main/java/UG3soal1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/71200537-soal1/src/main/java/com/ug3/soal1/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/71200537-soal1/src/test/java/com/ug3/soal1/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/71200537-soal2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/71200537-soal2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/71200537-soal2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/71200537-soal2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/71200537-soal2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/71200537-soal2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/71200537-soal2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/71200537-soal2/src/main/java/com/ug3/soal2/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/71200537-soal2/src/test/java/com/ug3/soal2/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/Maven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/Maven/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/Maven/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/Maven/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/Maven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/Maven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/Maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/Maven/src/main/resources/META-INF/maven/archetype-metadata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/Maven/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/Maven/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/Maven/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/Maven/src/test/resources/projects/it-basic/archetype.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/Maven/src/test/resources/projects/it-basic/goal.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlaylist-71200537/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlaylist-71200537/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlaylist-71200537/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlaylist-71200537/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlaylist-71200537/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlaylist-71200537/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlaylist-71200537/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlaylist-71200537/src/main/java/com/rplbo/musicplaylist/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlaylist-71200537/src/main/java/com/rplbo/musicplaylist/Playlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlaylist-71200537/src/main/java/com/rplbo/musicplaylist/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlaylist-71200537/src/test/java/com/rplbo/musicplaylist/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlaylist-71200537/target/MusicPlaylist-71200537-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlaylist-71200537/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlaylist-71200537/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlaylist-71200537/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlaylist-71200537/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlaylist-71200537/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlaylist-71200537/target/surefire-reports/TEST-com.rplbo.musicplaylist.AppTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlaylist-71200537/target/surefire-reports/com.rplbo.musicplaylist.AppTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicPlaylist-71200537/target/test-classes/com/rplbo/musicplaylist/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ngetes/Ngetes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ngetes/src/JDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ngetes/src/Kali.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ngetes/src/Kuadrat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ngetes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ngetes/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ngetes/src/OperandNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ngetes/src/OperatorNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ngetes/src/Tambah.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ngetes/src/UnaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UAS-71200537-PERAWATAN/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UAS-71200537-PERAWATAN/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UAS-71200537-PERAWATAN/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UAS-71200537-PERAWATAN/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UAS-71200537-PERAWATAN/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UAS-71200537-PERAWATAN/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UAS-71200537-PERAWATAN/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UAS-71200537-PERAWATAN/src/main/java/com/uas/perawatan/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UAS-71200537-PERAWATAN/src/test/java/com/uas/perawatan/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG10A_71200537/LoginRegister/bebas/src/main/java/UG10_71200537/EmailException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG10A_71200537/LoginRegister/bebas/src/main/java/UG10_71200537/LoginException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG10A_71200537/LoginRegister/bebas/src/main/java/UG10_71200537/PasswordException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG10A_71200537/LoginRegister/bebas/src/main/java/UG10_71200537/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG10A_71200537/LoginRegister/bebas/src/main/java/UG10_71200537/UsernameException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG11/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG11/src/main/java/EmailException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG11/src/main/java/InstaPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG12-71200537-ProjectKassa/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG12-71200537-ProjectKassa/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG12-71200537-ProjectKassa/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG12-71200537-ProjectKassa/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG12-71200537-ProjectKassa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG12-71200537-ProjectKassa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG12-71200537-ProjectKassa/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG12-71200537-ProjectKassa/src/main/java/com/ug12/projectkassa/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG12-71200537-ProjectKassa/src/main/java/com/ug12/projectkassa/Kasir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG12-71200537-ProjectKassa/src/main/java/com/ug12/projectkassa/Kassa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG12-71200537-ProjectKassa/src/main/java/com/ug12/projectkassa/Produk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG12-71200537-ProjectKassa/src/test/java/com/ug12/projectkassa/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG13-71200537-RumahSakit/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG13-71200537-RumahSakit/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG13-71200537-RumahSakit/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG13-71200537-RumahSakit/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG13-71200537-RumahSakit/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG13-71200537-RumahSakit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG13-71200537-RumahSakit/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG13-71200537-RumahSakit/src/main/java/com/ug13/rumahsakit/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG13-71200537-RumahSakit/src/main/java/com/ug13/rumahsakit/Dokter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG13-71200537-RumahSakit/src/main/java/com/ug13/rumahsakit/Jadwal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG13-71200537-RumahSakit/src/main/java/com/ug13/rumahsakit/Pasien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG13-71200537-RumahSakit/src/main/java/com/ug13/rumahsakit/Pelayanan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG13-71200537-RumahSakit/src/main/java/com/ug13/rumahsakit/Suster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG13-71200537-RumahSakit/src/test/java/com/ug13/rumahsakit/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG14-71200537-SakitRumah/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG14-71200537-SakitRumah/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG14-71200537-SakitRumah/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG14-71200537-SakitRumah/Lib/mysql-connector-java-8.0.29.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG14-71200537-SakitRumah/src/main/java/com/ug14/rumahsakit/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG14-71200537-SakitRumah/src/main/java/com/ug14/rumahsakit/DAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG14-71200537-SakitRumah/src/main/java/com/ug14/rumahsakit/Dokter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG14-71200537-SakitRumah/src/main/java/com/ug14/rumahsakit/Jadwal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG14-71200537-SakitRumah/src/main/java/com/ug14/rumahsakit/Pasien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG14-71200537-SakitRumah/src/main/java/com/ug14/rumahsakit/Pelayanan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG14-71200537-SakitRumah/src/main/java/com/ug14/rumahsakit/Suster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG14-71200537-SakitRumah/src/test/java/com/ug14/rumahsakit/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG2/UG2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG2_71200537/UG2_71200537.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG5/71200537-UG5A-1/71200537-UG5A-1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG5/71200537-UG5A-1/71200537-UG5A-1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG5/71200537-UG5A-1/71200537-UG5A-1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG5/71200537-UG5A-1/71200537-UG5A-1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG5/71200537-UG5A-1/71200537-UG5A-1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG5/71200537-UG5A-1/71200537-UG5A-1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG5/71200537-UG5A-1/71200537-UG5A-1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG5/71200537-UG5A-1/71200537-UG5A-1/src/main/java/com/ug5a/soal1/Transpay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG5/71200537-UG5A-2/71200537-UG5A-2/src/main/java/com/ug5a/soal2/Sepatu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG7/71200537-UG7-EWALLET/src/main/java/com/ug7/ewallet/GoPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG7/71200537-UG7-EWALLET/src/main/java/com/ug7/ewallet/ShopeePay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG7/71200537-UG7-EWALLET/src/main/java/com/ug7/ewallet/eWallet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG_8_RPLPO_71200537_C_/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG_8_RPLPO_71200537_C_/.idea/UG_8_RPLPO_71200537_C_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG_8_RPLPO_71200537_C_/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG_8_RPLPO_71200537_C_/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG_9_RPLPO_71200537_C_/71200537-UG9-eTransactionProject/src/main/java/com/ug9/etransactionproject/BNImo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG_9_RPLPO_71200537_C_/71200537-UG9-eTransactionProject/src/main/java/com/ug9/etransactionproject/BRImo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG_9_RPLPO_71200537_C_/71200537-UG9-eTransactionProject/src/main/java/com/ug9/etransactionproject/Dana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG_9_RPLPO_71200537_C_/71200537-UG9-eTransactionProject/src/main/java/com/ug9/etransactionproject/DigitalPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG_9_RPLPO_71200537_C_/71200537-UG9-eTransactionProject/src/main/java/com/ug9/etransactionproject/MobileBanking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG_9_RPLPO_71200537_C_/71200537-UG9-eTransactionProject/src/main/java/com/ug9/etransactionproject/MobileWallet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG_9_RPLPO_71200537_C_/71200537-UG9-eTransactionProject/src/main/java/com/ug9/etransactionproject/Ovo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UG_RPLBO_71200537_C_2/UG_RPLBO_71200537_C_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/71200537-UTS-CART/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/71200537-UTS-CART/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/71200537-UTS-CART/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/71200537-UTS-CART/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/71200537-UTS-CART/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/71200537-UTS-CART/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/71200537-UTS-CART/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/71200537-UTS-CART/src/main/java/com/uts/prakrplbo/Apel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/71200537-UTS-CART/src/main/java/com/uts/prakrplbo/Buah.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/71200537-UTS-CART/src/main/java/com/uts/prakrplbo/Keranjang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/71200537-UTS-CART/src/main/java/com/uts/prakrplbo/Mangga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectGamein/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectGamein/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectGamein/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectGamein/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectGamein/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectGamein/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectGamein/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectGamein/src/main/java/com/rplbo/utsGame/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectGamein/src/main/java/com/rplbo/utsGame/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectGamein/src/main/java/com/rplbo/utsGame/Avatar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectGamein/src/main/java/com/rplbo/utsGame/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectGamein/src/main/java/com/rplbo/utsGame/IKeyInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectGamein/src/main/java/com/rplbo/utsGame/IMoveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectGamein/src/main/java/com/rplbo/utsGame/Ninja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectGamein/src/main/java/com/rplbo/utsGame/Projectile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectGamein/src/main/java/com/rplbo/utsGame/Warlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectGamein/src/main/java/com/rplbo/utsGame/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectGamein/src/test/java/com/rplbo/utsGame/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectKalkulator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectKalkulator/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectKalkulator/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectKalkulator/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectKalkulator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectKalkulator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectKalkulator/src/main/java/com/rplbo/utsnota/BilanganString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectKalkulator/src/main/java/com/rplbo/utsnota/Kalkulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/ProjectKalkulator/src/main/java/com/rplbo/utsnota/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nyobain/cobain/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nyobain/cobain/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nyobain/cobain/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nyobain/cobain/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nyobain/cobain/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nyobain/cobain/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nyobain/cobain/src/main/java/cobain/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nyobain/cobain/src/main/java/cobain/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nyobain/cobain/src/main/java/cobain/EMail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas UG/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas UG/tugas UG.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etprof/71200537.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etprof/71200537.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etprof/71200537_2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prak RPL/UG1/soal_UG_RPLBO_A.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ApczcQXIji8Sk7IKibVM7OPsQh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sqlite-jdbc-3.38.1.1.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Maven.CariSudut-71200537 [package]">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.CariSudut.Main" />
+      <module name="CariSudut-71200537" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.CariSudut.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CariSudut-71200537 [compile]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="compile" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="CariSudut-71200537 [package]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Maven.CariSudut-71200537 [compile]" />
+      <item itemvalue="Maven.CariSudut-71200537 [package]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8a0eb9c-35ac-4fdc-b6c8-83f740dbc148" name="Changes" comment="" />
+      <created>1655710235463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655710235463</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
